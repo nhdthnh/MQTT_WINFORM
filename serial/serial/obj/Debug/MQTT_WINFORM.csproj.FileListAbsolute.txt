@@ -1,0 +1,16 @@
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\serial.exe.config
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\serial.exe
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\serial.pdb
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\MQTT_WINFORM.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.CONTROL.resources
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.SettingServer.resources
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.Properties.Resources.resources
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\MQTT_WINFORM.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\MQTT_WINFORM.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.exe
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.pdb
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\M2Mqtt.dll
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\uPLibrary.dll
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\uPLibrary.pdb
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\MQTT_WINFORM.csproj.CopyComplete
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.Main.resources

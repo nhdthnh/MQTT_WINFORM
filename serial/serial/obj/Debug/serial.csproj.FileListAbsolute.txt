@@ -1,0 +1,10 @@
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\serial.exe.config
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\serial.exe
+C:\Users\thanh\source\repos\serial\serial\bin\Debug\serial.pdb
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.Properties.Resources.resources
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.exe
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.pdb
+C:\Users\thanh\source\repos\serial\serial\obj\Debug\serial.SettingServer.resources
